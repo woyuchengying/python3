@@ -50,7 +50,7 @@ Host woyuchengying
 ## 1.6 点击vscode远程连接按钮开始连接
 ## 1.7 安装vscode插件
 ```
->vscode  
+>Code Runner
 >Python
 ```
 # 二.vscode连接GitHub
