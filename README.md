@@ -48,6 +48,11 @@ Host woyuchengying
 ```
 ## 1.5 配置远程服务器/root/.ssh/authorized_keys文件，文件内容为C:\Users\woyuc\.ssh\id_rsa.pub文件内容
 ## 1.6 点击vscode远程连接按钮开始连接
+## 1.7 安装vscode插件
+```
+>vscode  
+>Python
+```
 # 二.vscode连接GitHub
 ## 2.1 本地windows创建Github目录,vscode打开此文件夹之后使用git进行初始化
 ## 2.2 打开cmd配置ssh密钥
